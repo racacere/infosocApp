@@ -1,5 +1,7 @@
 {
   "name": "infosoc",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }

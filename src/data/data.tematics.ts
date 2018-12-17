@@ -2,7 +2,7 @@ export const CATEGORIES = [
     {
         name: "Correo Seguro",
         image: "https://diligent.com/wp-content/uploads/2017/07/Are-There-Any-Safe-and-Secure-Alternatives-to-Business-Email.jpg",
-        description: "Pequeña descripción",
+        description: "Evita caer en correo malicioso",
         subCategories: [
             {
                 name: "Phishing",
@@ -25,7 +25,7 @@ export const CATEGORIES = [
     {
         name: "Navega Seguro",
         image: "https://static.makeuseof.com/wp-content/uploads/2016/02/best-browser-670x335.jpg",
-        description: "Pequeña descripción",
+        description: "Atento a los detalles",
         subCategories: [
             {
                 name: "Https",
@@ -43,7 +43,7 @@ export const CATEGORIES = [
     {
         name: "Compras Seguras",
         image: "https://www.glenmorevisioncenter.com/wp-content/uploads/2018/03/Online-Shopping.jpg",
-        description: "Pequeña descripción",
+        description: "Realiza tus compras sin preocupaciones",
         subCategories: [
             {
                 name: "Responsabilidades legales de las empresas",
